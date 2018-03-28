@@ -15,6 +15,11 @@ git commit -m "代码提交信息"
 $ git add README.md
 $ git commit -m "first commit"
 $ git push origin master
+
+$ git status 查看是否有修改而未提交文件
+$ git diff README.md 查看修改了什么
+$ git log 查看历史 （按q退出） 或者$ git log --pretty=oneline
+
 111111111111111111111111
 222222222222222222222222
 333333333333333333333333
