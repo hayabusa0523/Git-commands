@@ -19,6 +19,7 @@ $ git push origin master
 $ git status 查看是否有修改而未提交文件
 $ git diff README.md 查看修改了什么
 $ git log 查看历史 （按q退出） 或者$ git log --pretty=oneline
+$ cat README.md 查看文本内容
 
 111111111111111111111111
 222222222222222222222222
