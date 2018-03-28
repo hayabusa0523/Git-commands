@@ -23,6 +23,10 @@ $ cat README.md 查看文本内容
 $ git reset --hard HEAD~回退版本数
 $ git reset --hard 版本号
 $ git reflog 获取版本号
+
+shift+insert =复制粘贴
+shift+enter =全屏
+ctrl+ +/-/0 =放大，缩小或回复
 111111111111111111111111
 222222222222222222222222
 333333333333333333333333
