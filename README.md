@@ -4,6 +4,7 @@ some commands for Git Bash
 $ cd C:/Android/git-repositories
 $ mkdir new_repository_1           创建新的目录
 $ cd new_repository_1              进入到创建的目录
+$ git clone http://github.com/hayabusa0523/Git-commands.git 导入共享端repo
 
 你可以提出更改（把它们添加到暂存区），使用如下命令：
 git add <filename>
