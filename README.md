@@ -20,7 +20,9 @@ $ git status 查看是否有修改而未提交文件
 $ git diff README.md 查看修改了什么
 $ git log 查看历史 （按q退出） 或者$ git log --pretty=oneline
 $ cat README.md 查看文本内容
-
+$ git reset --hard HEAD~回退版本数
+$ git reset --hard 版本号
+$ git reflog 获取版本号
 111111111111111111111111
 222222222222222222222222
 333333333333333333333333
